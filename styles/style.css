@@ -1,0 +1,42 @@
+*{
+    margin: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+h3{
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+    padding: 3.5px;
+    text-decoration: underline;
+}
+.picture{
+    margin: 0.6rem;
+    height: 110vh;
+    width: 100vw;
+    background-image: url('../images/Social\ Media\ orientation.png');
+    background-size: cover;
+    background-repeat:no-repeat;
+
+}
+.blogs{
+    color: black;
+    background-color: aqua;
+    margin: 10px;
+    text-align: justify;
+    border: 2px solid red;
+    padding: 10px 30px 10px 30px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px  blue;
+    
+}
+.lorem{
+    color: red;
+    text-decoration: underline;
+    border: 2px solid red;
+display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
